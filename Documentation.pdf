@@ -1,0 +1,24 @@
+Project Name: OneStop Event Management System
+Project Type: Group Project (Three Members)
+
+ Project Requirements: 
+This web application should be a third party application which have own catering service and lend convention centers for commissions.
+A company/User may hire one or many centers (Convention center). Every Convention center company can upload and update their information. Admin also can hire center and give rent to clients and get commission. Event management can also serve various foods and other services likes- photography, wedding sets etc. 
+1. Customer can choose product/service set’s or can customize their choice. 
+2. Customer cannot select 1 food item more than once. 
+3. Customer can browse all registered center and can place order/book centers or venues. 
+4. Clients/ Business Companies can upload their business/service information and can also show the customer’s booking. 
+
+Using Technologies:
+1.	Visual Studio 2017
+2.	ASP.NET WEB API 
+3.	AngularJs
+4.	JQuery
+5.	JavaScript
+6.	Odata
+7.	HTML5
+8.	CSS3
+9.	BootStrap
+10.	JSON
+11.	Entity FrameWork Code First Database modeling
+12.	ASP.NET 4.5
